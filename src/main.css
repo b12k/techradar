@@ -1,0 +1,13 @@
+.container {
+    aspect-ratio: 1 / 1;
+    height: 100vh;
+    outline: 1px solid red;
+}
+
+.radar_marker_text {
+    fill: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20%;
+    text-anchor: "middle";
+}

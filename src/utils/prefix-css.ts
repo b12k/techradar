@@ -1,0 +1,1 @@
+export const prefixCss = (cssClass: string, prefix?: string, separator = '_') => [prefix, cssClass].filter(Boolean).join(separator);
